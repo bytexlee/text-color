@@ -6,7 +6,7 @@
 ## install
 
 ```text
-go get git@github.com:lee501/text-color@latest
+go get git@github.com:bytexlee/text-color@latest
 ```
 
 ## example
@@ -15,7 +15,7 @@ go get git@github.com:lee501/text-color@latest
 package main
 
 import (
-	"github.com:lee501/text-color"
+	"github.com:bytexlee/text-color"
 )
 
 func main() {

@@ -1,3 +1,3 @@
-module github.com/lee501/text_color
+module github.com/bytexlee/text_color
 
-go 1.18
+go 1.26
